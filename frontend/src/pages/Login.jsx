@@ -54,7 +54,6 @@ function Login() {
                 email,
                 password
             }
-
             dispatch(login(userData))
         }
 
